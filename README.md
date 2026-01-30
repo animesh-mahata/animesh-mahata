@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on FaceCount - A Face Recognition Based Smart Attendance System \
 🌱 I’m currently learning Spring Boot, DSA
 
 
@@ -22,4 +21,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=animesh-mahata&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
